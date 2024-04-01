@@ -1,0 +1,3 @@
+#NOTE: for whatever reason, pyproject.toml was yielding lots of errors.
+#Seemed to particularly dislike the way licence was formatted. Eventually had to delete it
+#and use setup.py instead (worked).
